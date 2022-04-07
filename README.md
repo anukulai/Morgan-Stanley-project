@@ -9,7 +9,7 @@
 6. And: ```ng serve```
 7. Navigate to: [http://localhost:4200/](http://localhost:4200/)
 
-### What's included
+<!-- ### What's included
 
 Within the download you'll find the following directories and files:
 
@@ -107,3 +107,4 @@ paper-dashboard-angular
 [version-badge]: https://img.shields.io/badge/version-1.0.1-blue.svg
 
 [license-badge]: https://img.shields.io/badge/license-MIT-blue.svg
+ -->
